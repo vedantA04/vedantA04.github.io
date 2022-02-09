@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c491b7b9bfb0a9e501a0e3a4d3d0b06",
+    "revision": "95712c40562a04f8e2ecdb553027ddeb",
     "url": "./index.html"
   },
   {
-    "revision": "f26eafc2dac03c52084f",
-    "url": "./static/css/main.ed560a75.chunk.css"
+    "revision": "2114f25c970fe8df80fa",
+    "url": "./static/css/main.f4eb8527.chunk.css"
   },
   {
-    "revision": "75fc0b754bdce4725b2e",
-    "url": "./static/js/2.44c32cc9.chunk.js"
+    "revision": "4e84fb6541b92cbb3af6",
+    "url": "./static/js/2.ec160597.chunk.js"
   },
   {
-    "revision": "f26eafc2dac03c52084f",
-    "url": "./static/js/main.9b792ca0.chunk.js"
+    "revision": "2114f25c970fe8df80fa",
+    "url": "./static/js/main.edd2c721.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "./static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "3d9e83a77c0b4652743140ad386613d3",
+    "url": "./static/media/Blackbird.3d9e83a7.mp4"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -48,6 +52,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/GoogleSans-Regular.b5c77a6a.ttf"
   },
   {
+    "revision": "244bb9289ba14a3c64b9bde7a07615d2",
+    "url": "./static/media/Here Comes the Sun.244bb928.mp4"
+  },
+  {
+    "revision": "8e62416c2636638b194d4a913338fb85",
+    "url": "./static/media/Hotel California Solo.8e62416c.mp4"
+  },
+  {
+    "revision": "1d78651ba77be0724b11d2b8061031e2",
+    "url": "./static/media/Just A Beginner.1d78651b.MP4"
+  },
+  {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "./static/media/Montserrat-Regular.ee653992.ttf"
   },
@@ -62,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
     "url": "./static/media/animated_logo.dcd6dee2.svg"
+  },
+  {
+    "revision": "2be2143884345e90d22d1c15ce640bf2",
+    "url": "./static/media/blackbird.2be21438.jpg"
   },
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
@@ -188,6 +208,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/googleAssistant.a6addc3f.svg"
   },
   {
+    "revision": "5453e8f0a1edf494ee4ffc66a63a0b40",
+    "url": "./static/media/here comes the sun.5453e8f0.jpg"
+  },
+  {
+    "revision": "32085ca324faadb084060227a8a99c03",
+    "url": "./static/media/hotel california solo.32085ca3.png"
+  },
+  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "./static/media/ibm_logo.d3fccbe1.png"
   },
@@ -202,6 +230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
     "url": "./static/media/jsFramework.5b4a6449.svg"
+  },
+  {
+    "revision": "9fa510a729795e82b1800fe0765e90fd",
+    "url": "./static/media/just a beginner.9fa510a7.png"
   },
   {
     "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
