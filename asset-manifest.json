@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "./static/css/main.f4eb8527.chunk.css",
-    "main.js": "./static/js/main.edd2c721.chunk.js",
-    "main.js.map": "./static/js/main.edd2c721.chunk.js.map",
+    "main.js": "./static/js/main.450167be.chunk.js",
+    "main.js.map": "./static/js/main.450167be.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
     "static/js/2.ec160597.chunk.js": "./static/js/2.ec160597.chunk.js",
     "static/js/2.ec160597.chunk.js.map": "./static/js/2.ec160597.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.058848e32128f67437fa897f1f80d89d.js": "./precache-manifest.058848e32128f67437fa897f1f80d89d.js",
+    "precache-manifest.c2ee550aaa899794b388cdb1ddd612a5.js": "./precache-manifest.c2ee550aaa899794b388cdb1ddd612a5.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.f4eb8527.chunk.css.map": "./static/css/main.f4eb8527.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/Blackbird.mp4": "./static/media/Blackbird.3d9e83a7.mp4",
-    "static/media/Here Comes the Sun.mp4": "./static/media/Here Comes the Sun.244bb928.mp4",
+    "static/media/Here Comes the Sun.mp4": "./static/media/Here Comes the Sun.59865dcb.mp4",
     "static/media/Hotel California Solo.mp4": "./static/media/Hotel California Solo.8e62416c.mp4",
     "static/media/Just A Beginner.MP4": "./static/media/Just A Beginner.1d78651b.MP4",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.be4f4800.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
-    "static/media/blackbird.jpg": "./static/media/blackbird.2be21438.jpg",
+    "static/media/blackbird.png": "./static/media/blackbird.98157845.png",
     "static/media/blogs_image.svg": "./static/media/blogs_image.058eca4c.svg",
     "static/media/cloud_infrastructure.svg": "./static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "./static/media/codeInLogo.fee92c18.png",
@@ -37,7 +37,7 @@
     "static/media/github_logo.png": "./static/media/github_logo.6eeb2e81.png",
     "static/media/googleAssistant.jpg": "./static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "./static/media/googleAssistant.a6addc3f.svg",
-    "static/media/here comes the sun.jpg": "./static/media/here comes the sun.5453e8f0.jpg",
+    "static/media/here comes the sun.png": "./static/media/here comes the sun.ee881df0.png",
     "static/media/hotel california solo.png": "./static/media/hotel california solo.32085ca3.png",
     "static/media/ibm_logo.png": "./static/media/ibm_logo.d3fccbe1.png",
     "static/media/iiitk_logo.png": "./static/media/iiitk_logo.571a8584.png",
@@ -62,6 +62,6 @@
     "static/js/runtime-main.fff6ee50.js",
     "static/js/2.ec160597.chunk.js",
     "static/css/main.f4eb8527.chunk.css",
-    "static/js/main.edd2c721.chunk.js"
+    "static/js/main.450167be.chunk.js"
   ]
 }
