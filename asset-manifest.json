@@ -1,21 +1,25 @@
 {
   "files": {
     "main.css": "./static/css/main.f4eb8527.chunk.css",
-    "main.js": "./static/js/main.f765dcc0.chunk.js",
-    "main.js.map": "./static/js/main.f765dcc0.chunk.js.map",
+    "main.js": "./static/js/main.b8b1c6de.chunk.js",
+    "main.js.map": "./static/js/main.b8b1c6de.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.15761c27.chunk.js": "./static/js/2.15761c27.chunk.js",
-    "static/js/2.15761c27.chunk.js.map": "./static/js/2.15761c27.chunk.js.map",
+    "static/js/2.11263b91.chunk.js": "./static/js/2.11263b91.chunk.js",
+    "static/js/2.11263b91.chunk.js.map": "./static/js/2.11263b91.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.9f6aa61dbf531da7b6359b9bd735afb1.js": "./precache-manifest.9f6aa61dbf531da7b6359b9bd735afb1.js",
+    "precache-manifest.0dbac4810352e71738c7c3989de47edc.js": "./precache-manifest.0dbac4810352e71738c7c3989de47edc.js",
     "service-worker.js": "./service-worker.js",
     "static/css/main.f4eb8527.chunk.css.map": "./static/css/main.f4eb8527.chunk.css.map",
     "static/media/index.css": "./static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Art1.mp4": "./static/media/Art1.800129bf.mp4",
+    "static/media/Art2.mp4": "./static/media/Art2.70d802b8.mp4",
+    "static/media/Art3.mp4": "./static/media/Art3.01a29da7.mp4",
     "static/media/Blackbird.mp4": "./static/media/Blackbird.3d9e83a7.mp4",
     "static/media/Here Comes the Sun.mp4": "./static/media/Here Comes the Sun.59865dcb.mp4",
     "static/media/Hotel California Solo.mp4": "./static/media/Hotel California Solo.8e62416c.mp4",
     "static/media/Just A Beginner.MP4": "./static/media/Just A Beginner.1d78651b.MP4",
+    "static/media/Projects.mp4": "./static/media/Projects.c06a850a.mp4",
     "static/media/address_image.svg": "./static/media/address_image.16559172.svg",
     "static/media/animated_ashutosh.png": "./static/media/animated_ashutosh.be4f4800.png",
     "static/media/animated_logo.svg": "./static/media/animated_logo.dcd6dee2.svg",
@@ -49,7 +53,7 @@
     "static/media/muffito_logo.png": "./static/media/muffito_logo.069938a8.png",
     "static/media/nptel_logo.png": "./static/media/nptel_logo.95a12a2b.png",
     "static/media/portfolio.gif": "./static/media/portfolio.414dfbd9.gif",
-    "static/media/profile.jpeg": "./static/media/profile.090d588e.jpeg",
+    "static/media/profile.png": "./static/media/profile.1fc2c928.png",
     "static/media/programmer.svg": "./static/media/programmer.5faf790b.svg",
     "static/media/projects_image.svg": "./static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "./static/media/pwa.71408db7.png",
@@ -61,8 +65,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.15761c27.chunk.js",
+    "static/js/2.11263b91.chunk.js",
     "static/css/main.f4eb8527.chunk.css",
-    "static/js/main.f765dcc0.chunk.js"
+    "static/js/main.b8b1c6de.chunk.js"
   ]
 }
