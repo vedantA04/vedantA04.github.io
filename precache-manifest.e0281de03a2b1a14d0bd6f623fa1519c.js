@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3dd50f0fa76e2aee74c704254ddeee23",
+    "revision": "dde847243278216b67b42bd4adc0e687",
     "url": "./index.html"
   },
   {
-    "revision": "b7a4298b8a55aa9550b7",
+    "revision": "4174afef6abc6f04a5fe",
     "url": "./static/css/main.f4eb8527.chunk.css"
   },
   {
-    "revision": "a1fa6e8cf651234ad086",
-    "url": "./static/js/2.155bb142.chunk.js"
+    "revision": "fb43ae3de5b22621d815",
+    "url": "./static/js/2.293e9f2f.chunk.js"
   },
   {
-    "revision": "b7a4298b8a55aa9550b7",
-    "url": "./static/js/main.13eea3f9.chunk.js"
+    "revision": "4174afef6abc6f04a5fe",
+    "url": "./static/js/main.1970156e.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -122,10 +122,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
     "url": "./static/media/deeplearning_ai_logo.75a7107b.png"
-  },
-  {
-    "revision": "e3ffcb439af0fe4dc9ea2e62b2a3bb8b",
-    "url": "./static/media/desc.e3ffcb43.png"
   },
   {
     "revision": "3e23ca14e7a7c8a7b63d255466749000",
@@ -306,9 +302,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
     "url": "./static/media/ui_ux_design.d6363089.svg"
-  },
-  {
-    "revision": "91049f4c40680ed736bd75b9cfdcb79b",
-    "url": "./static/media/user1.91049f4c.png"
   }
 ]);
