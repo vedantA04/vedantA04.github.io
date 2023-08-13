@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "281e2e1ef08315aacdf4618cc824ad71",
+    "revision": "2116a774ae1d70f0b86724b3cc0fda3e",
     "url": "./index.html"
   },
   {
-    "revision": "acf7970b490e47589510",
-    "url": "./static/css/main.f4eb8527.chunk.css"
+    "revision": "32ef47f663a683559b0b",
+    "url": "./static/css/main.115dc6aa.chunk.css"
   },
   {
-    "revision": "a2176c00cc8654d1946a",
-    "url": "./static/js/2.747bd421.chunk.js"
+    "revision": "2e8ddcd7c837d0d1e249",
+    "url": "./static/js/2.950d4244.chunk.js"
   },
   {
-    "revision": "acf7970b490e47589510",
-    "url": "./static/js/main.38bce3df.chunk.js"
+    "revision": "32ef47f663a683559b0b",
+    "url": "./static/js/main.600eff83.chunk.js"
   },
   {
     "revision": "1a27038c5115d044f6f9",
@@ -40,30 +40,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Blackbird.3d9e83a7.mp4"
   },
   {
-    "revision": "4457817ac2b9993c65e81aa05828fe9c",
-    "url": "./static/media/GoogleSans-Bold.4457817a.ttf"
-  },
-  {
-    "revision": "90773b6158663ab0fe78b32680733677",
-    "url": "./static/media/GoogleSans-BoldItalic.90773b61.ttf"
-  },
-  {
-    "revision": "0ecddcdeccb7761ce899aa9ad9f0ac3f",
-    "url": "./static/media/GoogleSans-Italic.0ecddcde.ttf"
-  },
-  {
-    "revision": "8d57e4014b18edef070d285746485115",
-    "url": "./static/media/GoogleSans-Medium.8d57e401.ttf"
-  },
-  {
-    "revision": "8fd3737925e83c87d78a13700ccf9a62",
-    "url": "./static/media/GoogleSans-MediumItalic.8fd37379.ttf"
-  },
-  {
-    "revision": "b5c77a6aed75cdad9489effd0d5ea411",
-    "url": "./static/media/GoogleSans-Regular.b5c77a6a.ttf"
-  },
-  {
     "revision": "59865dcbea590eecaf15aab33ae4b697",
     "url": "./static/media/Here Comes the Sun.59865dcb.mp4"
   },
@@ -76,8 +52,40 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Just A Beginner.1d78651b.MP4"
   },
   {
-    "revision": "ee6539921d713482b8ccd4d0d23961bb",
-    "url": "./static/media/Montserrat-Regular.ee653992.ttf"
+    "revision": "26006170c6315f934b3dfbf58cd11efd",
+    "url": "./static/media/Layer_1.26006170.svg"
+  },
+  {
+    "revision": "08c20a487911694291bd8c5de41315ad",
+    "url": "./static/media/Poppins-Bold.08c20a48.ttf"
+  },
+  {
+    "revision": "19406f767addf00d2ea82cdc9ab104ce",
+    "url": "./static/media/Poppins-BoldItalic.19406f76.ttf"
+  },
+  {
+    "revision": "d45bdbc2d4a98c1ecb17821a1dbbd3a4",
+    "url": "./static/media/Poppins-ExtraBold.d45bdbc2.ttf"
+  },
+  {
+    "revision": "c1034239929f4651cc17d09ed3a28c69",
+    "url": "./static/media/Poppins-Italic.c1034239.ttf"
+  },
+  {
+    "revision": "fcc40ae9a542d001971e53eaed948410",
+    "url": "./static/media/Poppins-Light.fcc40ae9.ttf"
+  },
+  {
+    "revision": "bf59c687bc6d3a70204d3944082c5cc0",
+    "url": "./static/media/Poppins-Medium.bf59c687.ttf"
+  },
+  {
+    "revision": "cf5ba39d9ac24652e25df8c291121506",
+    "url": "./static/media/Poppins-MediumItalic.cf5ba39d.ttf"
+  },
+  {
+    "revision": "093ee89be9ede30383f39a899c485a82",
+    "url": "./static/media/Poppins-Regular.093ee89b.ttf"
   },
   {
     "revision": "991836fbdf0eb1d31d0a77c229e794d5",
@@ -93,7 +101,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
-    "url": "./static/media/animated_logo.dcd6dee2.svg"
+    "url": "./static/media/animated_logo-ashutosh.dcd6dee2.svg"
+  },
+  {
+    "revision": "e2bf28b94adb7b9d78b42170d601461a",
+    "url": "./static/media/animated_logo.e2bf28b9.svg"
   },
   {
     "revision": "981578452c597ccb43c425e7f621ed69",
