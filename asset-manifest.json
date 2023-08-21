@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.839fa426.chunk.css",
-    "main.js": "./static/js/main.c6f183d2.chunk.js",
-    "main.js.map": "./static/js/main.c6f183d2.chunk.js.map",
+    "main.css": "./static/css/main.67be669b.chunk.css",
+    "main.js": "./static/js/main.6f70509a.chunk.js",
+    "main.js.map": "./static/js/main.6f70509a.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.cace208e.chunk.js": "./static/js/2.cace208e.chunk.js",
-    "static/js/2.cace208e.chunk.js.map": "./static/js/2.cace208e.chunk.js.map",
+    "static/js/2.f8520ee2.chunk.js": "./static/js/2.f8520ee2.chunk.js",
+    "static/js/2.f8520ee2.chunk.js.map": "./static/js/2.f8520ee2.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.15dc34362efb671d4a7cc52b37dd429f.js": "./precache-manifest.15dc34362efb671d4a7cc52b37dd429f.js",
+    "precache-manifest.09bb2418f8f9fa47aff23de42921d298.js": "./precache-manifest.09bb2418f8f9fa47aff23de42921d298.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.839fa426.chunk.css.map": "./static/css/main.839fa426.chunk.css.map",
+    "static/css/main.67be669b.chunk.css.map": "./static/css/main.67be669b.chunk.css.map",
     "static/media/index.css": "./static/media/Poppins-Regular.093ee89b.ttf",
     "static/media/Art1.mp4": "./static/media/Art1.800129bf.mp4",
     "static/media/Art2.mp4": "./static/media/Art2.70d802b8.mp4",
@@ -54,6 +54,7 @@
     "static/media/jsFramework.svg": "./static/media/jsFramework.5b4a6449.svg",
     "static/media/just a beginner.png": "./static/media/just a beginner.9fa510a7.png",
     "static/media/legato_logo.png": "./static/media/legato_logo.c597fbde.png",
+    "static/media/makerspace.png": "./static/media/makerspace.5029816c.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.83ac24fb.svg",
     "static/media/mowito.png": "./static/media/mowito.4f59624f.png",
     "static/media/muffito_logo.png": "./static/media/muffito_logo.069938a8.png",
@@ -78,8 +79,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.cace208e.chunk.js",
-    "static/css/main.839fa426.chunk.css",
-    "static/js/main.c6f183d2.chunk.js"
+    "static/js/2.f8520ee2.chunk.js",
+    "static/css/main.67be669b.chunk.css",
+    "static/js/main.6f70509a.chunk.js"
   ]
 }
