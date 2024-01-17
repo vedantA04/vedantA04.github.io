@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.e46445f3.chunk.css",
-    "main.js": "./static/js/main.d84e84b9.chunk.js",
-    "main.js.map": "./static/js/main.d84e84b9.chunk.js.map",
+    "main.css": "./static/css/main.0e8096b1.chunk.css",
+    "main.js": "./static/js/main.f7d65e8d.chunk.js",
+    "main.js.map": "./static/js/main.f7d65e8d.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.fff6ee50.js",
     "runtime-main.js.map": "./static/js/runtime-main.fff6ee50.js.map",
-    "static/js/2.890a28e9.chunk.js": "./static/js/2.890a28e9.chunk.js",
-    "static/js/2.890a28e9.chunk.js.map": "./static/js/2.890a28e9.chunk.js.map",
+    "static/js/2.796f7df2.chunk.js": "./static/js/2.796f7df2.chunk.js",
+    "static/js/2.796f7df2.chunk.js.map": "./static/js/2.796f7df2.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.678c1140dd954914fc7315aeed82ef27.js": "./precache-manifest.678c1140dd954914fc7315aeed82ef27.js",
+    "precache-manifest.1db47168e7a59affafbbb0699cc9f5ce.js": "./precache-manifest.1db47168e7a59affafbbb0699cc9f5ce.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.e46445f3.chunk.css.map": "./static/css/main.e46445f3.chunk.css.map",
+    "static/css/main.0e8096b1.chunk.css.map": "./static/css/main.0e8096b1.chunk.css.map",
     "static/media/index.css": "./static/media/Poppins-Regular.093ee89b.ttf",
     "static/media/Art1.mp4": "./static/media/Art1.800129bf.mp4",
     "static/media/Art3.mp4": "./static/media/Art3.01a29da7.mp4",
@@ -39,7 +39,7 @@
     "static/media/cycle6.jpg": "./static/media/cycle6.1eaae8e0.jpg",
     "static/media/data_science.svg": "./static/media/data_science.ebf35d7f.svg",
     "static/media/deeplearning_ai_logo.png": "./static/media/deeplearning_ai_logo.75a7107b.png",
-    "static/media/desc.png": "./static/media/desc.e3ffcb43.png",
+    "static/media/desc.png": "./static/media/desc.4068bc4d.png",
     "static/media/developerActivity.svg": "./static/media/developerActivity.3e23ca14.svg",
     "static/media/dsc_logo.png": "./static/media/dsc_logo.63f707f2.png",
     "static/media/education.svg": "./static/media/education.3bab7a9d.svg",
@@ -87,6 +87,7 @@
     "static/media/projects2.jpg": "./static/media/projects2.79091c6f.jpg",
     "static/media/projects_image.svg": "./static/media/projects_image.b8ba9487.svg",
     "static/media/pwa.png": "./static/media/pwa.71408db7.png",
+    "static/media/shadowprofile.png": "./static/media/shadowprofile.1a6bc7e8.png",
     "static/media/stanford_logo.png": "./static/media/stanford_logo.2c497738.png",
     "static/media/sumo.jpg": "./static/media/sumo.75c634b4.jpg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.6ac91b16.svg",
@@ -100,8 +101,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fff6ee50.js",
-    "static/js/2.890a28e9.chunk.js",
-    "static/css/main.e46445f3.chunk.css",
-    "static/js/main.d84e84b9.chunk.js"
+    "static/js/2.796f7df2.chunk.js",
+    "static/css/main.0e8096b1.chunk.css",
+    "static/js/main.f7d65e8d.chunk.js"
   ]
 }
